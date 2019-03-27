@@ -1,2 +1,0 @@
-# funs
-just practice git

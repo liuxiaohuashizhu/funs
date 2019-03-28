@@ -3,3 +3,4 @@
 /mysql_data
 .env
 /.idea/workspace.xml
+/tests/

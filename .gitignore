@@ -2,3 +2,4 @@
 /node_modules
 /mysql_data
 .env
+/.idea/workspace.xml
